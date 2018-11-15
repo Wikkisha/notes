@@ -13,6 +13,8 @@ Please refer to each directory README to build and run.
 
 This application is meant as a tutorial to implement [End-to-End Encryption (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption) with DataPeps on your own. Thanks to E2EE, your Notes are strongly protected with encryption performed directly on your browser and/or device. People that can access servers legally (admins, ...) or not (attackers, ...) will not be able to read your information.
 
+_This branch already has DataPeps support built-in. What was done from the parent commit is detailed below._
+
 Adding DataPeps support requires **no modification of the server code**. Only the `client/` needs to be updated.
 
 To add DataPeps support, awaiting the forthcoming blog post:
